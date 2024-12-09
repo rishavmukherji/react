@@ -1,5 +1,9 @@
 # @neynar/react
 
+Find the latest version [here](https://github.com/neynarxyz/frontend-monorepo/tree/main/packages/react).
+
+-- -- -- -- -- 
+
 ## Introduction
 
 `@neynar/react` is the official Frontend SDK from [Neynar](https://neynar.com/). This SDK includes React components to build Farcaster clients.
